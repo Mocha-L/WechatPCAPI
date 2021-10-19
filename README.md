@@ -1,2 +1,1 @@
-# WechatPCAPI
-项目不可用 已删除
+# WechatPCAPI 项目不可用 已删除
